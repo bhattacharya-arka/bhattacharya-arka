@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhattacharya-arka
 - 👀 I’m interested in Software Engineering and Machine Learning
 - 🌱 I’m currently learning Scikit-Learn and realted libraries
-- 📫 Feel free to connect on Twitter :- @ArkaB_19
+- 📫 Feel free to connect on LinkedIn :- Arka Bhattacharya
 
 <!---
 bhattacharya-arka/bhattacharya-arka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
