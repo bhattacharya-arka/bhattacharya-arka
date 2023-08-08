@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arka-bhattacharya-4665321b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arka-bhattacharya-4665321b6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhattacharya-arka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arka-bhattacharya-4665321b6" height="30" width="40" /></a>
 <a href="https://instagram.com/bhattacharya__arka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhattacharya__arka" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arkab_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arkab_19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arka_bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arka_bhattacharya" height="30" width="40" /></a>
