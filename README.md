@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arka Bhattacharya</h1>
 <h3 align="center">A passionate CS undergrad from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattacharya-arka" alt="bhattacharya-arka" /></a> </p>
-
 - 🔭 I’m currently working on **Breast Cancer Prediction.**
 
 - 🌱 I’m currently learning **Scikit-Learn, ML and CS.**
